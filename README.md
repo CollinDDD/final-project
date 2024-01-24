@@ -4,9 +4,9 @@ This restaurant reservation fullstack application was made as my final project f
 
 ## Deployments
 
- - Backend Deployment: https://periodic-tables-backend-cjr.herokuapp.com/
+ - Backend Deployment: 
 
- - Frontend Deployment: https://periodic-tables-frontend-cjr.herokuapp.com/dashboard
+ - Frontend Deployment: 
 
 ## Features
 
